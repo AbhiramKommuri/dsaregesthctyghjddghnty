@@ -1,0 +1,47 @@
+.body{
+text-align: center;    
+}
+
+
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+};
+
+.skeld{
+float: none;
+background-color: white ;
+padding: 10px;
+border-radius: 20px;
+box-shadow:5px 5px 5px grey;
+};
+
+.headingdiv
+{
+font-size: 18px;
+};
+
+.paraclass{
+box-shadow: 5px 5px 5px grey;
+};
+
+.footer{
+position: fixed;
+color: white;
+bottom: 0;
+width: 100%;
+background-color:grey;
+line-height: 3;
+text-align: center;
+};
+
+canvas
+{
+border:5px solid rgb(27, 37, 167);
+border-radius:20px;
+box-shadow:5px 5px 5px grey;
+margin-top: 150px;
+};
